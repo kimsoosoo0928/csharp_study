@@ -1,0 +1,16 @@
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\fourgeneric.exe
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\fourgeneric.deps.json
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\fourgeneric.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\fourgeneric.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\fourgeneric.dll
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\ref\fourgeneric.dll
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\bin\Debug\net5.0\fourgeneric.pdb
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.dll
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\ref\fourgeneric.dll
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.pdb
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.genruntimeconfig.cache
+C:\Users\kimso\Desktop\workspace\csharp_study\csharp_study\fourgeneric\obj\Debug\net5.0\fourgeneric.csproj.AssemblyReference.cache
